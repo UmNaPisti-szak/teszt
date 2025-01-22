@@ -8,5 +8,3 @@ router.get('/', function(req, res, next) {
 
 module.exports = router;
 
-h1
-dijgfoipgjrsoigfjrfsoigjeroigjeirhgjoigrjgoiőeoitgretr
